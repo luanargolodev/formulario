@@ -35,12 +35,12 @@ export const FormStep1 = () => {
       <Container>
         <p>Passo {state.currentStep}/3</p>
         <h1>Vamos começar com seu nome</h1>
-        <p>Preencha o campo abaixo com seu nome completo</p>
+        <p>Preencha o campo abaixo com seu nome</p>
 
         <hr />
 
         <label>
-          Seu nome completo
+          Seu nome
           <input
             type="text"
             autoFocus
